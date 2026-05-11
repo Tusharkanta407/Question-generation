@@ -29,8 +29,22 @@ export function latexishToPlainMath(input: string): string {
   s = s.replace(/\\times/g, "×");
   s = s.replace(/\\pm/g, "±");
   s = s.replace(/\\circ/g, "°");
+  s = s.replace(/\\ldots|\\dots/g, "...");
+  s = s.replace(/\\geq?|\\ge/g, ">=");
+  s = s.replace(/\\leq?|\\le/g, "<=");
+  s = s.replace(/\\neq/g, "!=");
+  s = s.replace(/\\in/g, "in");
+  s = s.replace(/\\notin/g, "not in");
+  s = s.replace(/\\subseteq/g, "subset of");
+  s = s.replace(/\\subset/g, "subset");
+  s = s.replace(/\\mathbb\{([A-Za-z])\}/g, "$1");
+  s = s.replace(/\\mathcal\{([A-Za-z])\}/g, "$1");
+  s = s.replace(/\\\{/g, "{");
+  s = s.replace(/\\\}/g, "}");
   s = s.replace(/\^\{([^}]*)\}/g, "^$1");
   s = s.replace(/\_\{([^}]*)\}/g, "_$1");
+  s = s.replace(/_([A-Za-z0-9]+)/g, "_$1");
+  s = s.replace(/\^([A-Za-z0-9]+)/g, "^$1");
   s = s.replace(/\s+/g, " ").trim();
 
   return s;
