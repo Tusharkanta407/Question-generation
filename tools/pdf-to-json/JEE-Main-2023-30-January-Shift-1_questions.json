@@ -1,0 +1,242 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "If it collides elastically with an identical bob Q hanging freely then velocity of Q, just after collision is (g = 10 m/s 2)",
+    "options": {
+      "A": "1 m/s",
+      "B": "4 m/s",
+      "C": "2 m/s",
+      "D": "8 m/s"
+    },
+    "correct_answer": "C",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Mechanics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 2,
+    "question_text": "Choose the option showing the correct relation between Poisson’s ratio (σ), Bulk modulus (B) and modulus of rigidity (G).",
+    "options": {
+      "A": "2B/(G) - σ = 3/2",
+      "B": "σ = (6B)/(3G + 2)",
+      "C": "σ = (9BG)/(B + G)",
+      "D": "σ = (3G)/(6B - 3)"
+    },
+    "correct_answer": "A",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Mechanics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 3,
+    "question_text": "When the key K is closed, find the ratio of final charge densities.",
+    "options": {
+      "A": "4:1",
+      "B": "1:2",
+      "C": "2:1",
+      "D": "1:4"
+    },
+    "correct_answer": "C",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Electrostatics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 4,
+    "question_text": "Choose the corresponding v – t graph for the given position-time graph.",
+    "options": {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null
+    },
+    "correct_answer": null,
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 5,
+    "question_text": "Choose the option showing correct statements for a system undergoing isothermal process.",
+    "options": {
+      "A": "(a), (c), (e)",
+      "B": "(b), (d)",
+      "C": "(c), (e)",
+      "D": "(a), (d), (e)"
+    },
+    "correct_answer": "C",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Thermodynamics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 6,
+    "question_text": "The minimum heat current through the conductor is _____",
+    "options": {
+      "A": "(2β)/(α - γ)",
+      "B": "(2/3)(β)/(α - γ)",
+      "C": null,
+      "D": null
+    },
+    "correct_answer": "B",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Thermodynamics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 7,
+    "question_text": "If (P2 – P1) < P1 and (t2 – t1) = t1 < (t3 – t2) then at which points among A, B and C the magnitude of force experienced by the object is maximum and minimum respectively?",
+    "options": {
+      "A": "A, B",
+      "B": "A, C",
+      "C": "B, C",
+      "D": "B, A"
+    },
+    "correct_answer": "B",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Dynamics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 8,
+    "question_text": "Average speed of the particle is:",
+    "options": {
+      "A": "12 m/s",
+      "B": "10 m/s",
+      "C": "7 m/s",
+      "D": "9 m/s"
+    },
+    "correct_answer": "B",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Find initial speed of bullet.",
+    "options": {
+      "A": "150 m/s",
+      "B": "90 m/s",
+      "C": "240 m/s",
+      "D": "360 m/s"
+    },
+    "correct_answer": "D",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Momentum",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 10,
+    "question_text": "Find P1/P2 when a capacitor with capacitive reactance, XC = R is also connected in series.",
+    "options": {
+      "A": "2:1",
+      "B": "1:2",
+      "C": "1:1",
+      "D": "1:2"
+    },
+    "correct_answer": "B",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "AC Circuits",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 11,
+    "question_text": "Find total momentum transferred by the beam to the body is equal to?",
+    "options": {
+      "A": "2 × 10–17 Ns",
+      "B": "1 × 10–17 Ns",
+      "C": "3 × 10–17 Ns",
+      "D": "5 × 10–17 Ns"
+    },
+    "correct_answer": "A",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Waves",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 12,
+    "question_text": "Find the velocity of the electron in the 3rd orbit.",
+    "options": {
+      "A": "4.2 × 10^6 m/s",
+      "B": "8.4 × 10^6 m/s",
+      "C": "2.1 × 10^6 m/s",
+      "D": "3.6 × 10^6 m/s"
+    },
+    "correct_answer": "B",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Atomic Structure",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Find SI units of a & b for defined electric field?",
+    "options": {
+      "A": "a – Nm^2C^–1",
+      "B": "a – Nm^3C^–1",
+      "C": "a – NmC^–1",
+      "D": "a – Nm^2C^–1, b – Nm^2C^–1"
+    },
+    "correct_answer": "A",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Electricity",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 14,
+    "question_text": "If magnetic dipole moment of both the coils is same then, IAN_A = 4IBN_B.",
+    "options": {
+      "A": "IA N_A = 4IBN_B",
+      "B": "IA = 4IBN_B",
+      "C": "IA N_A = 2IBN_B",
+      "D": "N_AIA = 4N_BI_B"
+    },
+    "correct_answer": "D",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Magnetism",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 15,
+    "question_text": "The volume expansion coefficient of the gas is equal to?",
+    "options": {
+      "A": "2/T",
+      "B": "3/T",
+      "C": "1/2T",
+      "D": "1/T"
+    },
+    "correct_answer": "B",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Thermodynamics",
+    "difficulty": "medium"
+  },
+  {
+    "question_number": 16,
+    "question_text": "Find the number of fringes by which the central maxima gets shifted from point O.",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "8",
+      "D": "12"
+    },
+    "correct_answer": "A",
+    "question_type": "mcq",
+    "subject": "Physics",
+    "chapter": "Wave Optics",
+    "difficulty": "medium"
+  }
+]

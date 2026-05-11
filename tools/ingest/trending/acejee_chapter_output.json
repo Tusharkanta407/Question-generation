@@ -1,0 +1,248 @@
+[
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "A particle of mass $m$ slides on a frictionless surface $ABCD$, starting from rest as shown in the figure. The part $BCD$ is a circular arc. If it loses contact at point $P$, find the maximum height attained by the particle from point $C$.A) $R (2 + \\cfrac{1}{2 \\sqrt{2}})$B) $R (2 – \\cfrac{1}{2 \\sqrt{2}})$C) $3R$D) none of these. Answer",
+    "options": {
+      "A": "$R (2 + \\cfrac{1}{2 \\sqrt{2}})$B) $R (2 – \\cfrac{1}{2 \\sqrt{2}})$C) $3R$D) none of these. AnswerCorrect Answer is"
+    },
+    "correct_answer": "A",
+    "answer_text": "A",
+    "dedup_hash": "381293a22d592f8d962e2dd2187c44c9fff4bdd37d81c7d9dd7256ab5831ac09",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "A force shown in the $F-x$ graph is applied to a $2$ Kg block horizontal as shown in the figure. The change in kinetic energy isA) $15 \\ J$B) $20 \\ J$C) $25 \\ J$D) $30 \\ J$ Answer",
+    "options": {
+      "B": "$20 \\ J$C) $25 \\ J$D) $30 \\ J$ AnswerCorrect Answer is"
+    },
+    "correct_answer": "B",
+    "answer_text": "B",
+    "dedup_hash": "00f9cb1ddceac35c9b438b38f25eb1f624dff02edfc62ee0d5b174bb84a9e1cd",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "Two bodies $A$ and $B$, each of mass $100$ gm are allowed to move along a frictionless typical path as shown below. In order to have the same kinetic energy for both the bodies at $M$, the initial velocity that should be given to $B$, if $A$ starts from rest isA) $10 \\ m/s$A) $\\sqrt{2} \\ m/s$A) $11 \\ m/s$A) $10 \\sqrt{2} \\ m/s$ Answer",
+    "options": {
+      "A": "$\\sqrt{2} \\ m/s$A) $11 \\ m/s$A) $10 \\sqrt{2} \\ m/s$ AnswerCorrect Answer is"
+    },
+    "correct_answer": "D",
+    "answer_text": "D",
+    "dedup_hash": "e5893bbdc72f30c89105109b75ff60a1401742b8177e8ca474693dbd9c088937",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "A machine delivers power to a body which is proportional to the instantaneous velocity $v$ of the body. If the body starts with a velocity that is almost negligible, the distance covered by the body is proportional toA) $\\sqrt{v}$B) $(\\cfrac{v}{2})^{1/3}$C) $v^{5/3}$D) $v^2$ Answer",
+    "options": {
+      "B": "$(\\cfrac{v}{2})^{1/3}$C) $v^{5/3}$D) $v^2$ AnswerCorrect Answer is"
+    },
+    "correct_answer": "D",
+    "answer_text": "D",
+    "dedup_hash": "2eddeaba5c22e49ec6d8110bc35b56bc74c6ab9e04e7fd909c317612328a0a57",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "numeric",
+    "question_text": "A force given by the relation $F = 8t$, acts on a body of mass $2$ kg, initially at rest. Find the work done by this force on the body during first 2 seconds of its motionA) $64$ JB) zeroC) $-64$ JD) none of these Answer",
+    "options": null,
+    "correct_answer": null,
+    "answer_text": "A",
+    "dedup_hash": "ee38a7c43da4f89b19ca9ff96b7f2fd6105d06015ea5e456f5182c5eb628f996",
+    "quality_status": "detail_text_only",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "The kinetic energy acquired by a mass $m$ in travelling a certain distance $d$, starting from rest, under the action of a force $F$ such that the force $F$ is proportional to $t$ is A) directly proportional to $t^2$B) independent of $t$C) directly proportional to $t^4$D) directly proportional to $t$ Answer",
+    "options": {
+      "A": "directly proportional to $t^2$B) independent of $t$C) directly proportional to $t^4$D) directly proportional to $t$ AnswerCorrect Answer is"
+    },
+    "correct_answer": "C",
+    "answer_text": "C",
+    "dedup_hash": "3134616513607f4a90439d240ce332f01b4e620e9d7d5fd30c3e799ca59418ae",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "numeric",
+    "question_text": "A projectile is fired with some velocity making certain angle with the horizontal. Which of the following graphs is the best representation for the kinetic energy of a projectile ($K.E$) versus its horizontal displacement ($x$)? Answer",
+    "options": null,
+    "correct_answer": null,
+    "answer_text": "D",
+    "dedup_hash": "0a7d1b49c5902327ce0622c5eb148a6cfffa18547f8bf341fd84678025d5411a",
+    "quality_status": "detail_text_only",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "A particle is moving on a circle of radius $R$ such that at every instant the tangential and radial accelerations are equal in magnitude. If the velocity of the particle be $v_0$ at $t=0$, the time for the completion of the half of the first revolution will beA) $R/v_0$B) $(R/v_0) (1-e^{-\\pi})$C) $(R/v_0) (1-e^{-2 \\pi})$D) $(R/v_0) e^{-\\pi}$ Answer",
+    "options": {
+      "B": "$(R/v_0) (1-e^{-\\pi})$C) $(R/v_0) (1-e^{-2 \\pi})$D) $(R/v_0) e^{-\\pi}$ AnswerCorrect Answer is"
+    },
+    "correct_answer": "B",
+    "answer_text": "B",
+    "dedup_hash": "693fae0e2781fe841691e6caaa08521ac71896a9527e13f41ed042a1f6f06542",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "A particle of mass $m$ is moving horizontally with a constant velocity $v$ towards a rigid wall that is moving in opposite direction with a constant speed $u$. Assuming elastic impact between the particle and wall, the work done by the wall in reflecting the particle is equal toA) $(1/2) m (u+v)^2$B) $(1/2) m (u+v)$C) $(1/2) muv$D) $2mu (u+v)$ Answer",
+    "options": {
+      "B": "$(1/2) m (u+v)$C) $(1/2) muv$D) $2mu (u+v)$ AnswerCorrect Answer is",
+      "D": "Paragraph for Question Nos. 11 to 13The potential energy function for the force between two in a diatomic molecule can approximately be expressed as $U(x) = \\cfrac{a}{x^{12}} – \\cfrac{b}{x^6}$, where $a$ and $b$ are positive constants, and $x$ is the distance between the atoms. Answer the following questions by selecting most appropriate alternative."
+    },
+    "correct_answer": "D",
+    "answer_text": "D",
+    "dedup_hash": "3580bf394d6b08e98b4ca5490e461767b793a22a4f5e8417e1c2cba15483b428",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "numeric",
+    "question_text": "The graph between potential energy $U(x)$ vs $x$ will be Answer",
+    "options": null,
+    "correct_answer": null,
+    "answer_text": "B",
+    "dedup_hash": "fbfcbdb402afd33977a35208000a0ed38a6a6366290dab32db823b90b2b2e262",
+    "quality_status": "detail_text_only",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "The dissociation energy of the molecule is (initially molecule is at rest at equilibrium)A) $- \\cfrac{b^2}{4a}$B) $- \\cfrac{b^2}{2a}$C) $+ \\cfrac{b^2}{4a}$D) $+ \\cfrac{b^2}{2a}$ Answer",
+    "options": {
+      "A": "$- \\cfrac{b^2}{4a}$B) $- \\cfrac{b^2}{2a}$C) $+ \\cfrac{b^2}{4a}$D) $+ \\cfrac{b^2}{2a}$ AnswerCorrect Answer is"
+    },
+    "correct_answer": "C",
+    "answer_text": "C",
+    "dedup_hash": "d027b93f946e53d77245d6cd5f4290c82043c46ff6d76bf5f7081f47877ab02f",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "The graph between force between the atoms $F(x)$ vs $x$ will be Answer",
+    "options": {
+      "A": "Section BQ14. In the figure shown, a semi-cylinder of radius $R$ is rigidly fixed on a horizontal table of height $l_0$ from the ground such that there is a common edge of the table and the semi-cylinder. A block of mass $m$ is attached rigidly to a light spring of stiffness $k$, whose other end is rigidly attached to the ground. The natural length of the spring is $l_0$. A force of constant magnitude $F$ is applied on the block to move it on the frictionless surface of the semi-cylinder in a vertical plane such that the path followed by the block is a semi-circle of radius $R$The force is always tangential to the cylinder. Find the contact force between the cylinder and the block as a function of $\\theta$. The initial speed of the block is zero and the initial length of the spring is $l_0$. $\\theta$ is the angular displacement of the block w.r.t the center of the circular path as shown in the figure Answer$N = 3mg \\sin \\theta + kR \\theta^2 -2 F \\theta$"
+    },
+    "correct_answer": "A",
+    "answer_text": "A",
+    "dedup_hash": "e389debde1a873ece305a5cb4704da3154529b1676867b2e621de76e5b52c9d6",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "mcq",
+    "question_text": "The arrangement shown in the diagram is moving in space with an acceleration $a = 4 \\hat{i} + 4 \\hat{j}$ $m/s^2$. An ideal spring of natural length $l_0$ having spring constant $k = 50$ $N/m$, is connected to block $A$. Blocks $A$ and $B$ are connected by an ideal string passing through a frictionless pulley. Mass of each block $A$ and $B$ is equal to $m = 2$ kg. a) Calculate the minimum value of coefficient of friction so that spring remains in its natural length b) If $\\mu$ is reduced to $(9/35)^{th}$ of the original value, calculate the maximum extension of the spring. Answera) $\\mu_{min} = \\cfrac{5}{9}$ b) $x = 0.6$ mQ16. A wedge with a rough circular track $AB$, is fixed on the plane $XX$. The radius of the track is $R$ and the coefficient of friction of the track varies as $\\mu = \\mu_0 x$. Find the work done on mass $m$ in moving from $A$ to $B$. Here $C$ is the center of the circular track $AB$ and $x$ is the distance along +ve $x$ axis from origin $O$. Answer$W = mg R [\\cfrac{\\mu_0}{2} + 1]$",
+    "options": {
+      "A": "Calculate the minimum value of coefficient of friction so that spring remains in its natural length",
+      "B": "$x = 0.6$ mQ16. A wedge with a rough circular track $AB$, is fixed on the plane $XX$. The radius of the track is $R$ and the coefficient of friction of the track varies as $\\mu = \\mu_0 x$. Find the work done on mass $m$ in moving from $A$ to $B$. Here $C$ is the center of the circular track $AB$ and $x$ is the distance along +ve $x$ axis from origin $O$. Answer$W = mg R [\\cfrac{\\mu_0}{2} + 1]$"
+    },
+    "correct_answer": null,
+    "answer_text": null,
+    "dedup_hash": "2e6b6488e37502b059cc1d9e48415664edf968925b6eba13b53dcb7ad1d11ed7",
+    "quality_status": "detail_parsed",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  },
+  {
+    "source_name": "acejee",
+    "source_url": "https://acejee.com/blog/work-power-energy-practice-problems-jee-advanced/",
+    "subject": null,
+    "topic": "work power energy practice problems jee advanced",
+    "question_type": "numeric",
+    "question_text": "The system of mass $A$ and $B$ shown in the figure is released from rest with $x=0$, determine the velocity of mass $B$ when $x = 3$ m. Also find the maximum displacement of mass $B$. Answer$v = 5$ m/s Maximum displacement of $B$ $= 8 \\sqrt{2}$ mQ18. A spring mass system is held at rest at height $H$ from the ground with the spring in the relaxed state. Find the minimum value of $H$ so that the system has a tendency to rebound after hitting the ground. The coefficient of restitution between $m_2$ and ground is zero Answer$H = \\cfrac{m_2 g}{K} [\\cfrac{2m_1 + m_2}{2 m_1}]$",
+    "options": null,
+    "correct_answer": null,
+    "answer_text": null,
+    "dedup_hash": "0b2ec79a27522cf632b0f5bc671802ff56bc88e31e684d2a85a7353e8e3311c1",
+    "quality_status": "detail_text_only",
+    "metadata": {
+      "parser": "scrapeAcejeeTest"
+    }
+  }
+]

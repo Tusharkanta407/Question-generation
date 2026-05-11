@@ -1,0 +1,32 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+drive_id.json
+*.service-account.json
+# PYQ datasets — keep PDFs local
+datasets/**/*.pdf
+Dataset/**/*.pdf
+
+# Next.js / Vercel build artifacts
+.next/
+out/
+.vercel/
+
+# Local caches / temp files
+.cache/
+*.tmp
+*.temp
+tmp/
+temp/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# OS/editor junk
+Thumbs.db
+
